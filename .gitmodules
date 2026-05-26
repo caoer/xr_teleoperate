@@ -7,3 +7,33 @@
 [submodule "teleop/teleimager"]
 	path = teleop/teleimager
 	url = https://github.com/unitreerobotics/teleimager.git
+[submodule "references/TeleVision"]
+	path = references/TeleVision
+	url = https://github.com/OpenTeleVision/TeleVision
+[submodule "references/dex-retargeting"]
+	path = references/dex-retargeting
+	url = https://github.com/dexsuite/dex-retargeting
+[submodule "references/vuer"]
+	path = references/vuer
+	url = https://github.com/vuer-ai/vuer
+[submodule "references/pinocchio"]
+	path = references/pinocchio
+	url = https://github.com/stack-of-tasks/pinocchio
+[submodule "references/casadi"]
+	path = references/casadi
+	url = https://github.com/casadi/casadi
+[submodule "references/meshcat-python"]
+	path = references/meshcat-python
+	url = https://github.com/meshcat-dev/meshcat-python
+[submodule "references/pyzmq"]
+	path = references/pyzmq
+	url = https://github.com/zeromq/pyzmq
+[submodule "references/BunnyVisionPro"]
+	path = references/BunnyVisionPro
+	url = https://github.com/Dingry/BunnyVisionPro
+[submodule "references/unitree_sdk2_python"]
+	path = references/unitree_sdk2_python
+	url = https://github.com/unitreerobotics/unitree_sdk2_python
+[submodule "references/beavr-bot"]
+	path = references/beavr-bot
+	url = https://github.com/ARCLab-MIT/beavr-bot
